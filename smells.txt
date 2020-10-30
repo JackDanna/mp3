@@ -1,6 +1,6 @@
-Question 1:
-Question 2:
-Question 3:
+Question 1: Use refactor to create a new method.
+Question 2: Use refactor to create a new method.
+Question 3: No, because it shouldn't end up in the Nodes class.
 Question 4:
 Question 5:
 Question 6:
