@@ -2,5 +2,5 @@ Question 1: Use refactor to create a new method.
 Question 2: Use refactor to create a new method.
 Question 3: No, because it shouldn't end up in the Nodes class.
 Question 4: To eliminate the repeat code, I just implemented a while loop.
-Question 5:
+Question 5: no question asked.
 Question 6:
