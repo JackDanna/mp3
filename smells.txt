@@ -3,4 +3,4 @@ Question 2: Use refactor to create a new method.
 Question 3: No, because it shouldn't end up in the Nodes class.
 Question 4: To eliminate the repeat code, I just implemented a while loop.
 Question 5: no question asked.
-Question 6: In RunParameterDefinitionTest.java it is possible to extract mutiple duplicate lines. The project.getPublishersList().replaceBy(VALUE) into a new meathod.
+Question 6: In RunParameterDefinitionTest.java it is possible to extract mutiple duplicate lines. The project.getPublishersList().replaceBy(VALUE) into a new method called getPubList().
